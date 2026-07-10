@@ -15,6 +15,13 @@ Developers can deploy the catalog as a full-library installation, start with foc
 [![Build Status](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](#)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](#)
 
+[![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-AI%20IDE-blue)](#)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-purple)](#)
+[![Cursor](https://img.shields.io/badge/Cursor-AI%20IDE-orange)](#)
+[![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Google-blue)](#)
+[![Copilot](https://img.shields.io/badge/Copilot-GitHub-black)](#)
+[![AutoHand Code](https://img.shields.io/badge/AutoHand%20Code-CLI-green)](#)
+
 ---
 
 ## 📖 Table of Contents
