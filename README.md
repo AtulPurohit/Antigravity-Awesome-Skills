@@ -6,6 +6,7 @@
 [![Compatibility](https://img.shields.io/badge/Compatibility-Multi--Platform-orange.svg)](#compatibility)
 [![Build Status](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](#)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](#)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/atulpurohit)
 
 [![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-AI%20IDE-blue)](#)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-purple)](#)
