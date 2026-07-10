@@ -2,6 +2,12 @@
 
 🚀 **The ultimate collection of 300+ production-ready agentic skill definitions for AI coding assistants.** Optimized for **Claude Code, Antigravity, Gemini CLI, Cursor, Copilot, AutoHand Code, Kiro**, and more.
 
+**Antigravity Awesome Skills** is an installable, enterprise-grade repository and NPM package providing pre-compiled, structured `SKILL.md` playbooks. Built for modern developer workflows, it helps AI coding assistants (including Claude Code, Antigravity IDE, Cursor, Gemini CLI, and GitHub Copilot) operate with explicit context boundaries, clear system constraints, and checkable verification steps. Rather than managing ad-hoc prompt snippets or loose directives, this library introduces a validated catalog of structured blueprints and roles that automate complex coding tasks reliably.
+
+This repository is an independent open-source initiative. All product names, logos, and brands (including Google, Gemini, Antigravity, Anthropic, Claude, and Cursor) are properties of their respective owners, and are referenced here solely for compatibility, tooling integration, and setup instructions.
+
+Developers can deploy the catalog as a full-library installation, start with focused stack-specific bundles (e.g. Backend Microservices, Frontend, Mobile, AI/LLMs), or run audits using the built-in security checker tools. The root documentation and matching Skills Explorer app serve as a high-signal discovery platform designed to get you the right guidelines quickly, minimizing context pollution and maximizing the accuracy of agentic code outputs.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Skills Count](https://img.shields.io/badge/Skills-313%20Available-brightgreen.svg)](#)
@@ -27,28 +33,6 @@
 
 ---
 
-## 🌟 Introduction
-
-**Antigravity Awesome Skills** is an installable, enterprise-grade repository and NPM package providing pre-compiled, structured `SKILL.md` playbooks. Built for modern developer workflows, it helps AI coding assistants (including Claude Code, Antigravity IDE, Cursor, Gemini CLI, and GitHub Copilot) operate with explicit context boundaries, clear system constraints, and checkable verification steps. Rather than managing ad-hoc prompt snippets or loose directives, this library introduces a validated catalog of structured blueprints and roles that automate complex coding tasks reliably.
-
-This repository is an independent open-source initiative. All product names, logos, and brands (including Google, Gemini, Antigravity, Anthropic, Claude, and Cursor) are properties of their respective owners, and are referenced here solely for compatibility, tooling integration, and setup instructions.
-
-Developers can deploy the catalog as a full-library installation, start with focused stack-specific bundles (e.g. Backend Microservices, Frontend, Mobile, AI/LLMs), or run audits using the built-in security checker tools. The root documentation and matching Skills Explorer app serve as a high-signal discovery platform designed to get you the right guidelines quickly, minimizing context pollution and maximizing the accuracy of agentic code outputs.
-
----
-
-## 🔌 Platform Compatibility
-
-These skill profiles are strictly compatible with all major agentic development CLI tools and IDE plugins:
-
-*   **Claude Code**: Drop into your project's custom tools or configuration system.
-*   **Antigravity IDE**: Automatically recognized via global or workspace customization directories (`.agents/skills/`).
-*   **Gemini CLI**: Integrate as system instruction context profiles.
-*   **Cursor**: Inject into `.cursorrules` or reference templates.
-*   **Copilot & AutoHand Code**: Load as custom system instructions.
-
----
-
 ## ⚡ Quick Installation
 
 You can install all or specific subsets of the skills instantly using our custom NPX installer commands. Both commands are supported and run the exact same installer script:
@@ -64,6 +48,18 @@ To install the entire catalog automatically without interactive prompts, use:
 ```bash
 npx antigravity-awesome-skills --all
 ```
+
+---
+
+## 🔌 Platform Compatibility
+
+These skill profiles are strictly compatible with all major agentic development CLI tools and IDE plugins:
+
+*   **Claude Code**: Drop into your project's custom tools or configuration system.
+*   **Antigravity IDE**: Automatically recognized via global or workspace customization directories (`.agents/skills/`).
+*   **Gemini CLI**: Integrate as system instruction context profiles.
+*   **Cursor**: Inject into `.cursorrules` or reference templates.
+*   **Copilot & AutoHand Code**: Load as custom system instructions.
 
 ---
 
