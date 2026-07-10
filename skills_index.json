@@ -1,0 +1,2819 @@
+[
+  {
+    "name": "12-factor-app",
+    "title": "12 Factor App",
+    "category": "backend",
+    "description": "Professional 12 Factor App Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "ab-test-designer",
+    "title": "Ab Test Designer",
+    "category": "testing",
+    "description": "Professional Ab Test Designer skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "accessibility-champion",
+    "title": "Accessibility Champion",
+    "category": "frontend",
+    "description": "Professional Accessibility Champion Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "accessibility-mobile",
+    "title": "Accessibility Mobile",
+    "category": "mobile",
+    "description": "Professional Accessibility Mobile Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "accessibility-tester",
+    "title": "Accessibility Tester",
+    "category": "testing",
+    "description": "Professional Accessibility Tester Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "activation-engineer",
+    "title": "Activation Engineer",
+    "category": "product",
+    "description": "Professional Activation Engineer skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "ai-content-filter",
+    "title": "Ai Content Filter",
+    "category": "ai-ml",
+    "description": "Professional Ai Content Filter Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "ai-engineer",
+    "title": "Ai Engineer",
+    "category": "ai-ml",
+    "description": "Professional Ai Engineer skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "ai-product-manager",
+    "title": "Ai Product Manager",
+    "category": "ai-ml",
+    "description": "Professional Ai Product Manager Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "ai-safety-guard",
+    "title": "Ai Safety Guard",
+    "category": "security",
+    "description": "Professional Ai Safety Guard Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "alerting-config",
+    "title": "Alerting Config",
+    "category": "devops",
+    "description": "Design effective alerting that catches real issues and minimizes false alarms.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[alerting,pagerduty,prometheus,monitoring,on-call]"
+  },
+  {
+    "name": "analytics-audit",
+    "title": "Analytics Audit",
+    "category": "data",
+    "description": "Audit analytics implementations for tracking gaps and data quality issues.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[analytics,tracking,data-quality,measurement]"
+  },
+  {
+    "name": "android-expert",
+    "title": "Android Expert",
+    "category": "mobile",
+    "description": "Professional Android Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "android-playstore-builder",
+    "title": "Android Playstore Builder",
+    "category": "mobile",
+    "description": "Build, sign, and publish Android apps to Google Play Store. Covers AAB builds, signing configs, Play Console, staged rollouts, and automated CI/CD.",
+    "complexity": "advanced",
+    "risk": "medium",
+    "tags": "['android', 'play-store', 'gradle', 'release', 'aab']"
+  },
+  {
+    "name": "angular-enterprise",
+    "title": "Angular Enterprise",
+    "category": "frontend",
+    "description": "Professional Angular Enterprise Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "animation-engineer",
+    "title": "Animation Engineer",
+    "category": "frontend",
+    "description": "Build smooth, accessible web animations using CSS, Framer Motion, and GSAP.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[animation,css,framer-motion,transitions,ux]"
+  },
+  {
+    "name": "api-contract-tester",
+    "title": "Api Contract Tester",
+    "category": "testing",
+    "description": "Implement consumer-driven contract testing with Pact to ensure API compatibility.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[api,contract,pact,integration,consumer-driven]"
+  },
+  {
+    "name": "api-design",
+    "title": "Api Design",
+    "category": "architecture",
+    "description": "Design clean, versioned, consistent APIs using REST, GraphQL, or gRPC best practices. Use before building any public or internal API surface.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['api', 'rest', 'openapi', 'design']"
+  },
+  {
+    "name": "api-security",
+    "title": "Api Security",
+    "category": "security",
+    "description": "Harden APIs against OWASP API Top 10 vulnerabilities.",
+    "complexity": "advanced",
+    "risk": "high",
+    "tags": "[api,security,oauth,jwt,input-validation,owasp]"
+  },
+  {
+    "name": "app-release-manager",
+    "title": "App Release Manager",
+    "category": "mobile",
+    "description": "Manage the complete mobile app release lifecycle from versioning to store submission.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[release,mobile,deployment,versioning,stores]"
+  },
+  {
+    "name": "app-store-optimizer",
+    "title": "App Store Optimizer",
+    "category": "mobile",
+    "description": "Professional App Store Optimizer Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "architecture-decision",
+    "title": "Architecture Decision",
+    "category": "backend",
+    "description": "Professional Architecture Decision Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "auth-flow-ui",
+    "title": "Auth Flow Ui",
+    "category": "security",
+    "description": "Professional Auth Flow UI Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "auth-hardener",
+    "title": "Auth Hardener",
+    "category": "security",
+    "description": "Professional Auth Hardener Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "auto-scaler",
+    "title": "Auto Scaler",
+    "category": "devops",
+    "description": "Professional Auto Scaler Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "aws-architect",
+    "title": "Aws Architect",
+    "category": "devops",
+    "description": "Professional Aws Architect skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "azure-developer",
+    "title": "Azure Developer",
+    "category": "devops",
+    "description": "Professional Azure Developer skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "backend-architect",
+    "title": "Backend Architect",
+    "category": "backend",
+    "description": "Professional Backend Architect skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "background-jobs",
+    "title": "Background Jobs",
+    "category": "backend",
+    "description": "Professional Background Jobs Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "backup-strategy",
+    "title": "Backup Strategy",
+    "category": "devops",
+    "description": "Professional Backup Strategy Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "bdd-cucumber",
+    "title": "Bdd Cucumber",
+    "category": "testing",
+    "description": "Professional BDD Cucumber Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "bi-connector",
+    "title": "Bi Connector",
+    "category": "data",
+    "description": "Professional BI Connector Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "biometric-auth",
+    "title": "Biometric Auth",
+    "category": "mobile",
+    "description": "Professional Biometric Auth Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "blue-green-deploy",
+    "title": "Blue Green Deploy",
+    "category": "devops",
+    "description": "Professional Blue Green Deploy Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "bluetooth-expert",
+    "title": "Bluetooth Expert",
+    "category": "mobile",
+    "description": "Professional Bluetooth Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "brainstorming-facilitator",
+    "title": "Brainstorming Facilitator",
+    "category": "collaboration",
+    "description": "Facilitate structured brainstorming sessions to transform vague ideas into validated designs. Uses design thinking, divergent/convergent thinking, and structured dialogue.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[brainstorming, ideation, planning, design-thinking]"
+  },
+  {
+    "name": "bulkhead-pattern",
+    "title": "Bulkhead Pattern",
+    "category": "backend",
+    "description": "Professional Bulkhead Pattern Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "cache-strategist",
+    "title": "Cache Strategist",
+    "category": "php-frameworks",
+    "description": "Design comprehensive caching strategies across all layers: browser cache, CDN, application cache, database query cache, and Redis. Maximize performance while maintaining data freshness.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['cache', 'redis', 'memcached', 'cdn', 'strategy']"
+  },
+  {
+    "name": "caching-strategy",
+    "title": "Caching Strategy",
+    "category": "architecture",
+    "description": "Design comprehensive multi-layer caching strategies across CDN, application, and database tiers for maximum performance.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[caching, redis, cdn, performance, strategy]"
+  },
+  {
+    "name": "cakephp-developer",
+    "title": "Cakephp Developer",
+    "category": "backend",
+    "description": "Build enterprise MVC web applications using the CakePHP framework with strict ORM and conventions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[cakephp, php, backend, mvc, orm]"
+  },
+  {
+    "name": "cakephp-rest",
+    "title": "Cakephp Rest",
+    "category": "backend",
+    "description": "Build secure, fast RESTful APIs using CakePHP's built-in routing and serialization capabilities.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[cakephp, php, rest, api, json]"
+  },
+  {
+    "name": "camera-integration",
+    "title": "Camera Integration",
+    "category": "mobile",
+    "description": "Professional Camera Integration Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "canary-release",
+    "title": "Canary Release",
+    "category": "devops",
+    "description": "Professional Canary Release Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "cdc-streams",
+    "title": "Cdc Streams",
+    "category": "backend",
+    "description": "Professional CDC Streams Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "cdn-optimizer",
+    "title": "Cdn Optimizer",
+    "category": "devops",
+    "description": "Professional CDN Optimizer Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "chain-of-thought",
+    "title": "Chain Of Thought",
+    "category": "backend",
+    "description": "Professional Chain Of Thought Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "changelog-automator",
+    "title": "Changelog Automator",
+    "category": "developer-experience",
+    "description": "Professional Changelog Automator Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "changelog-generator",
+    "title": "Changelog Generator",
+    "category": "developer-experience",
+    "description": "Professional Changelog Generator Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "chaos-engineer",
+    "title": "Chaos Engineer",
+    "category": "backend",
+    "description": "Professional Chaos Engineer skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "churn-fighter",
+    "title": "Churn Fighter",
+    "category": "data",
+    "description": "Professional Churn Fighter Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "churn-predictor",
+    "title": "Churn Predictor",
+    "category": "data",
+    "description": "Professional Churn Predictor Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "ci-cd-architect",
+    "title": "Ci Cd Architect",
+    "category": "devops",
+    "description": "Design and implement comprehensive CI/CD pipelines. Covers build optimization, test automation, security scanning, multi-environment deployment, and rollback strategies.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ci-cd, pipeline, automation, deployment, devops]"
+  },
+  {
+    "name": "circuit-breaker",
+    "title": "Circuit Breaker",
+    "category": "architecture",
+    "description": "Implement circuit breaker patterns to prevent cascading failures in distributed systems and enable graceful degradation.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[circuit-breaker, resilience, fault-tolerance, microservices]"
+  },
+  {
+    "name": "clean-architecture",
+    "title": "Clean Architecture",
+    "category": "architecture",
+    "description": "Apply Uncle Bob's Clean Architecture to create maintainable, testable systems with proper separation of concerns.",
+    "complexity": "expert",
+    "risk": "low",
+    "tags": "[clean-architecture, solid, layers, domain-driven]"
+  },
+  {
+    "name": "cli-builder",
+    "title": "Cli Builder",
+    "category": "developer-experience",
+    "description": "Professional CLI Builder skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "cloud-security",
+    "title": "Cloud Security",
+    "category": "security",
+    "description": "Professional Cloud Security Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "code-review-coach",
+    "title": "Code Review Coach",
+    "category": "collaboration",
+    "description": "Conduct thorough, constructive code reviews that improve code quality, catch bugs, and teach best practices. Covers security, performance, readability, and design.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[code-review, pr-review, feedback, quality, best-practices]"
+  },
+  {
+    "name": "code-reviewer",
+    "title": "Code Reviewer",
+    "category": "collaboration",
+    "description": "Professional Code Reviewer Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "code-smell-detector",
+    "title": "Code Smell Detector",
+    "category": "developer-experience",
+    "description": "Professional Code Smell Detector Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "codeigniter-builder",
+    "title": "Codeigniter Builder",
+    "category": "php-frameworks",
+    "description": "Build clean, efficient CodeIgniter 4 applications. Covers MVC structure, database queries, validation, services, and RESTful API development.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "['codeigniter', 'php', 'mvc', 'backend']"
+  },
+  {
+    "name": "codeigniter-rest",
+    "title": "Codeigniter Rest",
+    "category": "backend",
+    "description": "Build secure RESTful APIs using the CodeIgniter framework.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[codeigniter, php, rest, api, json]"
+  },
+  {
+    "name": "cohort-analysis",
+    "title": "Cohort Analysis",
+    "category": "data",
+    "description": "Professional Cohort Analysis Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "commit-convention",
+    "title": "Commit Convention",
+    "category": "developer-experience",
+    "description": "Professional Commit Convention Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "competitive-analysis",
+    "title": "Competitive Analysis",
+    "category": "backend",
+    "description": "Professional Competitive Analysis Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "compliance-checker",
+    "title": "Compliance Checker",
+    "category": "security",
+    "description": "Professional Compliance Checker Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "component-library",
+    "title": "Component Library",
+    "category": "frontend",
+    "description": "Professional Component Library Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "connection-pooling",
+    "title": "Connection Pooling",
+    "category": "backend",
+    "description": "Professional Connection Pooling Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "container-security",
+    "title": "Container Security",
+    "category": "security",
+    "description": "Professional Container Security Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "content-marketer",
+    "title": "Content Marketer",
+    "category": "product",
+    "description": "Professional Content Marketer Expert skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "context-optimizer",
+    "title": "Context Optimizer",
+    "category": "backend",
+    "description": "Professional Context Optimizer Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "cost-optimizer",
+    "title": "Cost Optimizer",
+    "category": "backend",
+    "description": "Professional Cost Optimizer Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "cqrs-pattern",
+    "title": "Cqrs Pattern",
+    "category": "backend",
+    "description": "Professional Cqrs Pattern Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "cron-scheduler",
+    "title": "Cron Scheduler",
+    "category": "backend",
+    "description": "Professional Cron Scheduler Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "cross-platform",
+    "title": "Cross Platform",
+    "category": "backend",
+    "description": "Professional Cross Platform Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "csrf-protection",
+    "title": "Csrf Protection",
+    "category": "security",
+    "description": "Professional CSRF Protection Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "dark-mode-master",
+    "title": "Dark Mode Master",
+    "category": "frontend",
+    "description": "Professional Dark Mode Master skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "dashboard-builder",
+    "title": "Dashboard Builder",
+    "category": "frontend",
+    "description": "Professional Dashboard Builder skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "dashboard-designer",
+    "title": "Dashboard Designer",
+    "category": "frontend",
+    "description": "Professional Dashboard Designer skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "dast-runner",
+    "title": "Dast Runner",
+    "category": "testing",
+    "description": "Professional DAST Runner Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "data-analyst",
+    "title": "Data Analyst",
+    "category": "data",
+    "description": "Professional Data Analyst skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "data-archiver",
+    "title": "Data Archiver",
+    "category": "data",
+    "description": "Professional Data Archiver Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "data-governance",
+    "title": "Data Governance",
+    "category": "data",
+    "description": "Professional Data Governance Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "data-modeling",
+    "title": "Data Modeling",
+    "category": "data",
+    "description": "Professional Data Modeling Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "data-pipeline",
+    "title": "Data Pipeline",
+    "category": "devops",
+    "description": "Professional Data Pipeline Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "data-table-builder",
+    "title": "Data Table Builder",
+    "category": "frontend",
+    "description": "Professional Data Table Builder skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "data-warehouse",
+    "title": "Data Warehouse",
+    "category": "data",
+    "description": "Professional Data Warehouse Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "database-migration",
+    "title": "Database Migration",
+    "category": "data",
+    "description": "Professional Database Migration Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "database-optimizer",
+    "title": "Database Optimizer",
+    "category": "data",
+    "description": "Professional Database Optimizer Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "ddd-modeling",
+    "title": "Ddd Modeling",
+    "category": "architecture",
+    "description": "Apply DDD principles to model complex business domains. Covers bounded contexts, aggregates, domain events, repositories, and ubiquitous language.",
+    "complexity": "expert",
+    "risk": "low",
+    "tags": "[ddd, domain-driven-design, bounded-context, aggregates, events]"
+  },
+  {
+    "name": "debugging-expert",
+    "title": "Debugging Expert",
+    "category": "backend",
+    "description": "Professional Debugging Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "decision-matrix",
+    "title": "Decision Matrix",
+    "category": "collaboration",
+    "description": "Professional Decision Matrix Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "deep-link-specialist",
+    "title": "Deep Link Specialist",
+    "category": "mobile",
+    "description": "Professional Deep Link Specialist Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "deep-linking",
+    "title": "Deep Linking",
+    "category": "mobile",
+    "description": "Professional Deep Linking Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "dependency-auditor",
+    "title": "Dependency Auditor",
+    "category": "developer-experience",
+    "description": "Professional Dependency Auditor skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "dependency-manager",
+    "title": "Dependency Manager",
+    "category": "developer-experience",
+    "description": "Professional Dependency Manager Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "design-system",
+    "title": "Design System",
+    "category": "backend",
+    "description": "Professional Design System Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "devcontainer-setup",
+    "title": "Devcontainer Setup",
+    "category": "developer-experience",
+    "description": "Professional Devcontainer Setup Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "developer-portal",
+    "title": "Developer Portal",
+    "category": "developer-experience",
+    "description": "Professional Developer Portal Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "disaster-recovery",
+    "title": "Disaster Recovery",
+    "category": "devops",
+    "description": "Professional Disaster Recovery Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "distributed-systems",
+    "title": "Distributed Systems",
+    "category": "backend",
+    "description": "Professional Distributed Systems Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "docker-expert",
+    "title": "Docker Expert",
+    "category": "devops",
+    "description": "Build optimized, secure Docker images with multi-stage builds. Configure Docker Compose for full development and production stacks.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[docker, containers, dockerfile, compose, containerization]"
+  },
+  {
+    "name": "documentation-writer",
+    "title": "Documentation Writer",
+    "category": "developer-experience",
+    "description": "Write clear, comprehensive technical documentation. Covers README files, API docs, tutorials, architecture guides, and documentation systems.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[documentation, readme, api-docs, technical-writing]"
+  },
+  {
+    "name": "dx-auditor",
+    "title": "Dx Auditor",
+    "category": "backend",
+    "description": "Professional Dx Auditor skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "e2e-automator",
+    "title": "E2e Automator",
+    "category": "testing",
+    "description": "Build robust end-to-end test suites with Playwright or Cypress. Covers page objects, fixtures, visual testing, and CI integration.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[e2e, playwright, cypress, browser-automation, testing]"
+  },
+  {
+    "name": "elasticsearch-expert",
+    "title": "Elasticsearch Expert",
+    "category": "data",
+    "description": "Professional Elasticsearch Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "email-campaign",
+    "title": "Email Campaign",
+    "category": "product",
+    "description": "Professional Email Campaign Expert skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "embedding-architect",
+    "title": "Embedding Architect",
+    "category": "ai-ml",
+    "description": "Professional Embedding Architect skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "encryption-expert",
+    "title": "Encryption Expert",
+    "category": "security",
+    "description": "Professional Encryption Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "estimation-expert",
+    "title": "Estimation Expert",
+    "category": "collaboration",
+    "description": "Professional Estimation Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "etl-builder",
+    "title": "Etl Builder",
+    "category": "data",
+    "description": "Professional Etl Builder skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "eval-harness",
+    "title": "Eval Harness",
+    "category": "ai-ml",
+    "description": "Professional Eval Harness Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "evaluation-engineer",
+    "title": "Evaluation Engineer",
+    "category": "backend",
+    "description": "Professional Evaluation Engineer skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "event-driven-architecture",
+    "title": "Event Driven Architecture",
+    "category": "architecture",
+    "description": "Design event-driven systems using async messaging, Kafka, and event patterns. Covers event sourcing, CQRS, saga patterns, and consumer groups.",
+    "complexity": "expert",
+    "risk": "low",
+    "tags": "[event-driven, kafka, events, async, messaging]"
+  },
+  {
+    "name": "event-sourcing",
+    "title": "Event Sourcing",
+    "category": "backend",
+    "description": "Professional Event Sourcing Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "event-tracker",
+    "title": "Event Tracker",
+    "category": "backend",
+    "description": "Professional Event Tracker Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "feature-engineer",
+    "title": "Feature Engineer",
+    "category": "ai-ml",
+    "description": "Professional Feature Engineer skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "feature-flag-architecture",
+    "title": "Feature Flag Architecture",
+    "category": "backend",
+    "description": "Professional Feature Flag Architecture Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "feature-prioritizer",
+    "title": "Feature Prioritizer",
+    "category": "backend",
+    "description": "Professional Feature Prioritizer Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "few-shot-architect",
+    "title": "Few Shot Architect",
+    "category": "ai-ml",
+    "description": "Professional Few Shot Architect skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "file-uploader",
+    "title": "File Uploader",
+    "category": "backend",
+    "description": "Professional File Uploader Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "fine-tuner",
+    "title": "Fine Tuner",
+    "category": "ai-ml",
+    "description": "Professional Fine Tuner Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "flaky-test-fixer",
+    "title": "Flaky Test Fixer",
+    "category": "testing",
+    "description": "Professional Flaky Test Fixer Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "flutter-architect",
+    "title": "Flutter Architect",
+    "category": "mobile",
+    "description": "Professional Flutter Architect skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "flutter-developer",
+    "title": "Flutter Developer",
+    "category": "mobile",
+    "description": "Build beautiful, performant Flutter applications for iOS, Android, and web. Covers state management, navigation, animations, platform channels, and deployment.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['flutter', 'dart', 'mobile', 'ios', 'android', 'cross-platform']"
+  },
+  {
+    "name": "form-wizard",
+    "title": "Form Wizard",
+    "category": "frontend",
+    "description": "Professional Form Wizard Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "formatter-setup",
+    "title": "Formatter Setup",
+    "category": "developer-experience",
+    "description": "Professional Formatter Setup Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "funnel-analyzer",
+    "title": "Funnel Analyzer",
+    "category": "data",
+    "description": "Professional Funnel Analyzer Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "gcp-engineer",
+    "title": "Gcp Engineer",
+    "category": "devops",
+    "description": "Professional Gcp Engineer skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "gdpr-enforcer",
+    "title": "Gdpr Enforcer",
+    "category": "security",
+    "description": "Professional Gdpr Enforcer Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "github-actions",
+    "title": "Github Actions",
+    "category": "devops",
+    "description": "Professional Github Actions Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "gitlab-ci",
+    "title": "Gitlab Ci",
+    "category": "devops",
+    "description": "Professional Gitlab Ci Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "gitops-flow",
+    "title": "Gitops Flow",
+    "category": "devops",
+    "description": "Professional Gitops Flow Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "golang-engineer",
+    "title": "Golang Engineer",
+    "category": "backend",
+    "description": "Professional Golang Engineer skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "graphql-api",
+    "title": "Graphql Api",
+    "category": "backend",
+    "description": "Professional Graphql API Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "graphql-server",
+    "title": "Graphql Server",
+    "category": "backend",
+    "description": "Professional Graphql Server Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "growth-hacker",
+    "title": "Growth Hacker",
+    "category": "product",
+    "description": "Professional Growth Hacker Expert skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "grpc-builder",
+    "title": "Grpc Builder",
+    "category": "backend",
+    "description": "Professional Grpc Builder skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "hallucination-detector",
+    "title": "Hallucination Detector",
+    "category": "ai-ml",
+    "description": "Professional Hallucination Detector Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "handoff-documentor",
+    "title": "Handoff Documentor",
+    "category": "collaboration",
+    "description": "Professional Handoff Documentor Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "helm-packager",
+    "title": "Helm Packager",
+    "category": "devops",
+    "description": "Professional Helm Packager Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "hexagonal-architecture",
+    "title": "Hexagonal Architecture",
+    "category": "backend",
+    "description": "Professional Hexagonal Architecture Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "in-app-purchase",
+    "title": "In App Purchase",
+    "category": "mobile",
+    "description": "Professional In App Purchase Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "in-app-purchase-expert",
+    "title": "In App Purchase Expert",
+    "category": "mobile",
+    "description": "Professional In App Purchase Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "incident-manager",
+    "title": "Incident Manager",
+    "category": "collaboration",
+    "description": "Professional Incident Manager Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "incident-responder",
+    "title": "Incident Responder",
+    "category": "collaboration",
+    "description": "Professional Incident Responder Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "infinite-scroll",
+    "title": "Infinite Scroll",
+    "category": "frontend",
+    "description": "Professional Infinite Scroll Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "infrastructure-as-code",
+    "title": "Infrastructure As Code",
+    "category": "backend",
+    "description": "Professional Infrastructure As Code Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "input-validator",
+    "title": "Input Validator",
+    "category": "backend",
+    "description": "Professional Input Validator Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "integration-tester",
+    "title": "Integration Tester",
+    "category": "testing",
+    "description": "Professional Integration Tester Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "ios-appstore-builder",
+    "title": "Ios Appstore Builder",
+    "category": "mobile",
+    "description": "Prepare, configure, and publish iOS apps to the Apple App Store. Covers certificates, provisioning profiles, TestFlight, App Store submission, and review guidelines.",
+    "complexity": "advanced",
+    "risk": "medium",
+    "tags": "['ios', 'app-store', 'xcode', 'deployment', 'certificate']"
+  },
+  {
+    "name": "ios-specialist",
+    "title": "Ios Specialist",
+    "category": "mobile",
+    "description": "Professional Ios Specialist Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "journey-mapper",
+    "title": "Journey Mapper",
+    "category": "product",
+    "description": "Professional Journey Mapper Expert skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "jwt-security",
+    "title": "Jwt Security",
+    "category": "security",
+    "description": "Professional JWT Security Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "kafka-engineer",
+    "title": "Kafka Engineer",
+    "category": "backend",
+    "description": "Professional Kafka Engineer skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "kpi-designer",
+    "title": "Kpi Designer",
+    "category": "data",
+    "description": "Professional KPI Designer skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "kubernetes-operator",
+    "title": "Kubernetes Operator",
+    "category": "devops",
+    "description": "Deploy and manage applications on Kubernetes. Covers deployments, services, ingress, HPA, secrets, and production-grade cluster configuration.",
+    "complexity": "expert",
+    "risk": "low",
+    "tags": "[kubernetes, k8s, helm, pods, deployment, scaling]"
+  },
+  {
+    "name": "landing-page",
+    "title": "Landing Page",
+    "category": "frontend",
+    "description": "Professional Landing Page Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "langchain-expert",
+    "title": "Langchain Expert",
+    "category": "ai-ml",
+    "description": "Professional Langchain Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "laravel-api",
+    "title": "Laravel Api",
+    "category": "php-frameworks",
+    "description": "Build production-ready RESTful APIs with Laravel. Covers authentication (Sanctum/Passport), versioning, resources, rate limiting, and API testing.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['laravel', 'api', 'rest', 'sanctum', 'passport']"
+  },
+  {
+    "name": "laravel-architect",
+    "title": "Laravel Architect",
+    "category": "php-frameworks",
+    "description": "Design and build robust Laravel applications using best practices, proper architecture patterns, Eloquent ORM, service containers, and Laravel ecosystem tools.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['laravel', 'php', 'backend', 'eloquent', 'mvc']"
+  },
+  {
+    "name": "laravel-livewire",
+    "title": "Laravel Livewire",
+    "category": "php-frameworks",
+    "description": "Build dynamic, reactive Laravel applications using Livewire. Create real-time interfaces without writing JavaScript for SPA-like experiences.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "['laravel', 'livewire', 'frontend', 'reactive']"
+  },
+  {
+    "name": "laravel-nova",
+    "title": "Laravel Nova",
+    "category": "backend",
+    "description": "Build custom administration panels using Laravel Nova with advanced fields, lenses, actions, and cards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[laravel, php, nova, admin, dashboard]"
+  },
+  {
+    "name": "laravel-queues",
+    "title": "Laravel Queues",
+    "category": "php-frameworks",
+    "description": "Implement robust background job processing with Laravel Queues. Covers job design, Redis queues, Laravel Horizon, retry logic, and job monitoring.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['laravel', 'queues', 'jobs', 'redis', 'horizon']"
+  },
+  {
+    "name": "linting-configurator",
+    "title": "Linting Configurator",
+    "category": "developer-experience",
+    "description": "Professional Linting Configurator Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "llm-prompt-master",
+    "title": "Llm Prompt Master",
+    "category": "ai-ml",
+    "description": "Professional LLM Prompt Master skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "load-balancer",
+    "title": "Load Balancer",
+    "category": "devops",
+    "description": "Professional Load Balancer Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "load-tester",
+    "title": "Load Tester",
+    "category": "testing",
+    "description": "Professional Load Tester Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "location-service",
+    "title": "Location Service",
+    "category": "mobile",
+    "description": "Professional Location Service Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "logging-architect",
+    "title": "Logging Architect",
+    "category": "backend",
+    "description": "Professional Logging Architect skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "ltv-optimizer",
+    "title": "Ltv Optimizer",
+    "category": "data",
+    "description": "Professional LTV Optimizer Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "metric-tracker",
+    "title": "Metric Tracker",
+    "category": "backend",
+    "description": "Professional Metric Tracker Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "micro-frontend",
+    "title": "Micro Frontend",
+    "category": "backend",
+    "description": "Professional Micro Frontend Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "microservice-scaffolder",
+    "title": "Microservice Scaffolder",
+    "category": "backend",
+    "description": "Professional Microservice Scaffolder Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "microservices-design",
+    "title": "Microservices Design",
+    "category": "architecture",
+    "description": "Design and decompose systems into well-bounded microservices. Use when splitting monoliths or designing new distributed systems.",
+    "complexity": "expert",
+    "risk": "low",
+    "tags": "['microservices', 'distributed', 'service-mesh']"
+  },
+  {
+    "name": "migration-manager",
+    "title": "Migration Manager",
+    "category": "backend",
+    "description": "Professional Migration Manager Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "mlops-engineer",
+    "title": "Mlops Engineer",
+    "category": "ai-ml",
+    "description": "Professional Mlops Engineer skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "mobile-app-architect",
+    "title": "Mobile App Architect",
+    "category": "mobile",
+    "description": "Professional Mobile App Architect skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "mobile-ci-cd",
+    "title": "Mobile Ci Cd",
+    "category": "mobile",
+    "description": "Automate mobile app build, test, and deployment pipelines for iOS and Android using Fastlane, EAS Build, or GitHub Actions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ci-cd, mobile, fastlane, eas-build, github-actions, deployment]"
+  },
+  {
+    "name": "mobile-performance",
+    "title": "Mobile Performance",
+    "category": "mobile",
+    "description": "Professional Mobile Performance Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "mobile-security",
+    "title": "Mobile Security",
+    "category": "security",
+    "description": "Professional Mobile Security Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "mobile-testing",
+    "title": "Mobile Testing",
+    "category": "testing",
+    "description": "Professional Mobile Testing Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "mock-master",
+    "title": "Mock Master",
+    "category": "testing",
+    "description": "Professional Mock Master skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "model-card-writer",
+    "title": "Model Card Writer",
+    "category": "ai-ml",
+    "description": "Professional Model Card Writer Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "model-monitor",
+    "title": "Model Monitor",
+    "category": "ai-ml",
+    "description": "Professional Model Monitor Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "mongodb-specialist",
+    "title": "Mongodb Specialist",
+    "category": "data",
+    "description": "Professional Mongodb Specialist Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "monitoring-setup",
+    "title": "Monitoring Setup",
+    "category": "devops",
+    "description": "Set up comprehensive monitoring with Prometheus, Grafana, and alerting. Covers metrics, dashboards, SLOs, and on-call runbooks.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[monitoring, prometheus, grafana, alerting, observability]"
+  },
+  {
+    "name": "monolith-to-micro",
+    "title": "Monolith To Micro",
+    "category": "backend",
+    "description": "Professional Monolith To Micro Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "monorepo-architect",
+    "title": "Monorepo Architect",
+    "category": "backend",
+    "description": "Professional Monorepo Architect skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "multi-cloud",
+    "title": "Multi Cloud",
+    "category": "devops",
+    "description": "Professional Multi Cloud Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "multi-db-strategy",
+    "title": "Multi Db Strategy",
+    "category": "backend",
+    "description": "Professional Multi DB Strategy Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "multi-tenant-design",
+    "title": "Multi Tenant Design",
+    "category": "backend",
+    "description": "Professional Multi Tenant Design Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "multimodal-builder",
+    "title": "Multimodal Builder",
+    "category": "ai-ml",
+    "description": "Professional Multimodal Builder skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "mutation-tester",
+    "title": "Mutation Tester",
+    "category": "testing",
+    "description": "Professional Mutation Tester Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "mvp-launcher",
+    "title": "Mvp Launcher",
+    "category": "product",
+    "description": "Design and launch Minimum Viable Products that validate hypotheses with minimum waste. Covers hypothesis validation, feature selection, success metrics, and launch strategy.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[mvp, startup, product-launch, validation, lean]"
+  },
+  {
+    "name": "mysql-expert",
+    "title": "Mysql Expert",
+    "category": "php-frameworks",
+    "description": "Design, optimize, and maintain MySQL databases. Covers schema design, indexing strategies, query optimization, replication, and performance tuning.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['mysql', 'database', 'sql', 'optimization', 'indexing']"
+  },
+  {
+    "name": "nextjs-architect",
+    "title": "Nextjs Architect",
+    "category": "frontend",
+    "description": "Build production Next.js applications with App Router, Server Components, server actions, ISR, and full-stack patterns.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[nextjs, react, ssr, ssg, app-router, fullstack]"
+  },
+  {
+    "name": "node-api-builder",
+    "title": "Node Api Builder",
+    "category": "php-frameworks",
+    "description": "Build production-ready Node.js APIs with Express or Fastify. Covers middleware, authentication, validation, error handling, and performance optimization.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['node', 'express', 'api', 'javascript', 'backend']"
+  },
+  {
+    "name": "node-expert",
+    "title": "Node Expert",
+    "category": "backend",
+    "description": "Professional Node Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "node-express-expert",
+    "title": "Node Express Expert",
+    "category": "backend",
+    "description": "Build production Node.js applications with Express. Covers middleware architecture, authentication, validation, error handling, testing, and performance.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[node, express, javascript, api, middleware]"
+  },
+  {
+    "name": "node-fastify",
+    "title": "Node Fastify",
+    "category": "backend",
+    "description": "Professional Node Fastify Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "node-realtime",
+    "title": "Node Realtime",
+    "category": "backend",
+    "description": "Professional Node Realtime Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "nosql-specialist",
+    "title": "Nosql Specialist",
+    "category": "php-frameworks",
+    "description": "Design and implement NoSQL database solutions. Covers MongoDB, DynamoDB, Cassandra, and document/key-value patterns for high-scale applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['nosql', 'mongodb', 'dynamodb', 'cassandra', 'document-db']"
+  },
+  {
+    "name": "oauth-implementer",
+    "title": "Oauth Implementer",
+    "category": "security",
+    "description": "Professional OAuth Implementer Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "offline-first",
+    "title": "Offline First",
+    "category": "backend",
+    "description": "Professional Offline First Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "onboarding-designer",
+    "title": "Onboarding Designer",
+    "category": "backend",
+    "description": "Professional Onboarding Designer skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "onboarding-flow",
+    "title": "Onboarding Flow",
+    "category": "backend",
+    "description": "Professional Onboarding Flow Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "openapi-designer",
+    "title": "Openapi Designer",
+    "category": "developer-experience",
+    "description": "Design complete OpenAPI 3.1 specifications for RESTful APIs. Covers schemas, security, examples, webhooks, and documentation generation.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[openapi, swagger, api-spec, documentation, rest]"
+  },
+  {
+    "name": "ota-update-manager",
+    "title": "Ota Update Manager",
+    "category": "mobile",
+    "description": "Professional OTA Update Manager Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "output-validator",
+    "title": "Output Validator",
+    "category": "backend",
+    "description": "Professional Output Validator Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "owasp-guard",
+    "title": "Owasp Guard",
+    "category": "security",
+    "description": "Professional OWASP Guard Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "pair-programming",
+    "title": "Pair Programming",
+    "category": "collaboration",
+    "description": "Professional Pair Programming Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "payment-ui",
+    "title": "Payment Ui",
+    "category": "frontend",
+    "description": "Professional Payment UI Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "pen-tester",
+    "title": "Pen Tester",
+    "category": "testing",
+    "description": "Professional Pen Tester Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "performance-tester",
+    "title": "Performance Tester",
+    "category": "testing",
+    "description": "Design and run performance tests to identify bottlenecks, validate SLOs, and measure system capacity. Covers load tests, stress tests, and spike tests.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[performance, load-testing, k6, jmeter, benchmarking]"
+  },
+  {
+    "name": "persona-builder",
+    "title": "Persona Builder",
+    "category": "product",
+    "description": "Professional Persona Builder skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "planning-master",
+    "title": "Planning Master",
+    "category": "collaboration",
+    "description": "Professional Planning Master skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "platform-engineer",
+    "title": "Platform Engineer",
+    "category": "backend",
+    "description": "Professional Platform Engineer skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "platform-engineering",
+    "title": "Platform Engineering",
+    "category": "backend",
+    "description": "Professional Platform Engineering Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "postgresql-expert",
+    "title": "Postgresql Expert",
+    "category": "backend",
+    "description": "Design, optimize, and administer PostgreSQL databases. Covers advanced indexing, partitioning, full-text search, JSON operations, replication, and performance tuning.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[postgresql, sql, database, performance, indexing]"
+  },
+  {
+    "name": "postmortem-writer",
+    "title": "Postmortem Writer",
+    "category": "collaboration",
+    "description": "Professional Postmortem Writer Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "pr-review-expert",
+    "title": "Pr Review Expert",
+    "category": "collaboration",
+    "description": "Professional Pr Review Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "pricing-optimizer",
+    "title": "Pricing Optimizer",
+    "category": "product",
+    "description": "Professional Pricing Optimizer Expert skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "product-analytics",
+    "title": "Product Analytics",
+    "category": "data",
+    "description": "Professional Product Analytics Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "product-strategist",
+    "title": "Product Strategist",
+    "category": "product",
+    "description": "Define product vision, strategy, and roadmap. Covers OKRs, market positioning, competitive analysis, and prioritization frameworks.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[product, strategy, roadmap, okr, prioritization]"
+  },
+  {
+    "name": "profiling-guide",
+    "title": "Profiling Guide",
+    "category": "backend",
+    "description": "Professional Profiling Guide Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "push-notification",
+    "title": "Push Notification",
+    "category": "mobile",
+    "description": "Professional Push Notification Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "push-notification-expert",
+    "title": "Push Notification Expert",
+    "category": "mobile",
+    "description": "Professional Push Notification Expert skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "pwa-builder",
+    "title": "Pwa Builder",
+    "category": "frontend",
+    "description": "Professional PWA Builder skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "python-api",
+    "title": "Python Api",
+    "category": "backend",
+    "description": "Professional Python API Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "quality-gatekeeper",
+    "title": "Quality Gatekeeper",
+    "category": "backend",
+    "description": "Professional Quality Gatekeeper Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "query-planner",
+    "title": "Query Planner",
+    "category": "data",
+    "description": "Professional Query Planner Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "rag-builder",
+    "title": "Rag Builder",
+    "category": "ai-ml",
+    "description": "Professional Rag Builder skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "rate-limiter",
+    "title": "Rate Limiter",
+    "category": "backend",
+    "description": "Professional Rate Limiter Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "rate-limiting-design",
+    "title": "Rate Limiting Design",
+    "category": "architecture",
+    "description": "Design and implement rate limiting strategies to protect APIs and services from abuse while maintaining quality of service.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[rate-limiting, throttle, api, security, performance]"
+  },
+  {
+    "name": "react-builder",
+    "title": "React Builder",
+    "category": "frontend",
+    "description": "Build scalable React applications with proper component architecture, custom hooks, state management, and performance optimization.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[react, javascript, typescript, components, hooks]"
+  },
+  {
+    "name": "react-native-builder",
+    "title": "React Native Builder",
+    "category": "mobile",
+    "description": "Professional React Native Builder skill. Build performance-tuned, secure, and intuitive mobile applications for iOS and Android.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[mobile, ios, android, native, cross-platform]"
+  },
+  {
+    "name": "react-native-developer",
+    "title": "React Native Developer",
+    "category": "mobile",
+    "description": "Build production React Native apps with Expo or bare workflow. Covers navigation, state management, native modules, performance, and deployment.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[react-native, javascript, mobile, ios, android]"
+  },
+  {
+    "name": "readme-master",
+    "title": "Readme Master",
+    "category": "developer-experience",
+    "description": "Professional Readme Master skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "real-time-systems",
+    "title": "Real Time Systems",
+    "category": "backend",
+    "description": "Professional Real Time Systems Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "redis-cache-master",
+    "title": "Redis Cache Master",
+    "category": "backend",
+    "description": "Configure, monitor, and optimize Redis caches for caching patterns, session storage, and pub/sub queues.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[redis, cache, nosql, performance, keys]"
+  },
+  {
+    "name": "redis-master",
+    "title": "Redis Master",
+    "category": "php-frameworks",
+    "description": "Leverage Redis for caching, sessions, pub/sub, queues, rate limiting, and real-time features. Design Redis data structures for optimal performance.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['redis', 'cache', 'pub-sub', 'session', 'queue']"
+  },
+  {
+    "name": "refactor-advisor",
+    "title": "Refactor Advisor",
+    "category": "developer-experience",
+    "description": "Professional Refactor Advisor Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "referral-system",
+    "title": "Referral System",
+    "category": "product",
+    "description": "Professional Referral System Expert skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "release-manager",
+    "title": "Release Manager",
+    "category": "devops",
+    "description": "Professional Release Manager Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "reporting-engine",
+    "title": "Reporting Engine",
+    "category": "backend",
+    "description": "Professional Reporting Engine Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "responsible-ai",
+    "title": "Responsible Ai",
+    "category": "ai-ml",
+    "description": "Professional Responsible Ai Expert skill. Integrate LLM API workflows, safe system prompt guidelines, and agentic workflows.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[ai, llm, machine-learning, prompt-engineering]"
+  },
+  {
+    "name": "responsive-design",
+    "title": "Responsive Design",
+    "category": "frontend",
+    "description": "Professional Responsive Design Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "rest-api-builder",
+    "title": "Rest Api Builder",
+    "category": "backend",
+    "description": "Professional Rest API Builder skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "restful-api-design",
+    "title": "Restful Api Design",
+    "category": "php-frameworks",
+    "description": "Design professional RESTful APIs following HTTP standards, REST constraints, and industry best practices. Covers versioning, pagination, filtering, and HATEOAS.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['rest', 'api', 'http', 'openapi', 'best-practices']"
+  },
+  {
+    "name": "restful-api-security",
+    "title": "Restful Api Security",
+    "category": "security",
+    "description": "Professional Restful API Security Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "retention-analyzer",
+    "title": "Retention Analyzer",
+    "category": "data",
+    "description": "Professional Retention Analyzer Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "retention-specialist",
+    "title": "Retention Specialist",
+    "category": "data",
+    "description": "Professional Retention Specialist Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "retrospective-guide",
+    "title": "Retrospective Guide",
+    "category": "collaboration",
+    "description": "Professional Retrospective Guide Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "revenue-tracker",
+    "title": "Revenue Tracker",
+    "category": "backend",
+    "description": "Professional Revenue Tracker Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "rfc-writer",
+    "title": "Rfc Writer",
+    "category": "collaboration",
+    "description": "Professional RFC Writer Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "rich-text-editor",
+    "title": "Rich Text Editor",
+    "category": "frontend",
+    "description": "Professional Rich Text Editor Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "rust-developer",
+    "title": "Rust Developer",
+    "category": "backend",
+    "description": "Professional Rust Developer skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "saga-orchestrator",
+    "title": "Saga Orchestrator",
+    "category": "backend",
+    "description": "Professional Saga Orchestrator Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "sast-scanner",
+    "title": "Sast Scanner",
+    "category": "testing",
+    "description": "Professional SAST Scanner Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "schema-design",
+    "title": "Schema Design",
+    "category": "backend",
+    "description": "Professional Schema Design Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "sdk-designer",
+    "title": "Sdk Designer",
+    "category": "developer-experience",
+    "description": "Professional SDK Designer skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "secrets-manager",
+    "title": "Secrets Manager",
+    "category": "security",
+    "description": "Professional Secrets Manager Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "secrets-scanner",
+    "title": "Secrets Scanner",
+    "category": "security",
+    "description": "Professional Secrets Scanner Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "security-auditor",
+    "title": "Security Auditor",
+    "category": "security",
+    "description": "Perform comprehensive security audits of applications and APIs. Produces CVSS-scored vulnerability reports with detailed remediation steps.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, audit, owasp, vulnerability, penetration]"
+  },
+  {
+    "name": "security-tester",
+    "title": "Security Tester",
+    "category": "testing",
+    "description": "Professional Security Tester Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "seed-data",
+    "title": "Seed Data",
+    "category": "backend",
+    "description": "Professional Seed Data Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "semantic-search",
+    "title": "Semantic Search",
+    "category": "backend",
+    "description": "Professional Semantic Search Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "semantic-versioning",
+    "title": "Semantic Versioning",
+    "category": "developer-experience",
+    "description": "Professional Semantic Versioning Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "seo-optimizer",
+    "title": "Seo Optimizer",
+    "category": "backend",
+    "description": "Professional SEO Optimizer Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "seo-strategist",
+    "title": "Seo Strategist",
+    "category": "backend",
+    "description": "Professional SEO Strategist Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "serverless-architecture",
+    "title": "Serverless Architecture",
+    "category": "backend",
+    "description": "Professional Serverless Architecture Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "service-discovery",
+    "title": "Service Discovery",
+    "category": "backend",
+    "description": "Professional Service Discovery Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "service-mesh",
+    "title": "Service Mesh",
+    "category": "backend",
+    "description": "Professional Service Mesh Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "snapshot-tester",
+    "title": "Snapshot Tester",
+    "category": "testing",
+    "description": "Professional Snapshot Tester Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "sprint-planner",
+    "title": "Sprint Planner",
+    "category": "collaboration",
+    "description": "Professional Sprint Planner Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "sql-expert",
+    "title": "Sql Expert",
+    "category": "data",
+    "description": "Write complex, optimized SQL queries for analytics, reporting, and data manipulation. Covers window functions, CTEs, subqueries, performance tuning, and database-specific features.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[sql, postgresql, mysql, queries, optimization, analytics]"
+  },
+  {
+    "name": "sql-injection-guard",
+    "title": "Sql Injection Guard",
+    "category": "security",
+    "description": "Professional SQL Injection Guard Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "sre-runbook",
+    "title": "Sre Runbook",
+    "category": "devops",
+    "description": "Professional Sre Runbook Expert skill. Build robust, automated deployment pipelines and configure cloud infrastructure as code.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[devops, infrastructure, ci-cd, container, cloud]"
+  },
+  {
+    "name": "stakeholder-briefer",
+    "title": "Stakeholder Briefer",
+    "category": "collaboration",
+    "description": "Professional Stakeholder Briefer Expert skill. Orchestrate technical collaboration, design reviews, sprint planning, and system diagnostics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[collaboration, agile, team, process, productivity]"
+  },
+  {
+    "name": "state-management",
+    "title": "State Management",
+    "category": "frontend",
+    "description": "Professional State Management Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "supply-chain-security",
+    "title": "Supply Chain Security",
+    "category": "security",
+    "description": "Professional Supply Chain Security Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "system-architect",
+    "title": "System Architect",
+    "category": "architecture",
+    "description": "Design scalable, maintainable system architectures. Use before greenfield projects, major refactors, or when evaluating technical direction. Produces architecture decision records, component diagrams, and trade-off analyses.",
+    "complexity": "expert",
+    "risk": "low",
+    "tags": "[architecture, system-design, scalability, distributed-systems, design-patterns]"
+  },
+  {
+    "name": "tablet-layout",
+    "title": "Tablet Layout",
+    "category": "backend",
+    "description": "Professional Tablet Layout Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "tailwind-designer",
+    "title": "Tailwind Designer",
+    "category": "frontend",
+    "description": "Professional Tailwind Designer skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "tdd-practitioner",
+    "title": "Tdd Practitioner",
+    "category": "testing",
+    "description": "Practice Test-Driven Development with the red-green-refactor cycle. Write tests before code to drive better design, coverage, and confidence.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[tdd, test-driven, red-green-refactor, unit-tests]"
+  },
+  {
+    "name": "tech-debt-planner",
+    "title": "Tech Debt Planner",
+    "category": "backend",
+    "description": "Professional Tech Debt Planner Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "tech-debt-tracker",
+    "title": "Tech Debt Tracker",
+    "category": "backend",
+    "description": "Professional Tech Debt Tracker Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "terraform-builder",
+    "title": "Terraform Builder",
+    "category": "devops",
+    "description": "Build infrastructure as code with Terraform. Covers module design, state management, AWS/GCP/Azure resources, and production-grade practices.",
+    "complexity": "expert",
+    "risk": "low",
+    "tags": "[terraform, iac, aws, gcp, infrastructure, cloud]"
+  },
+  {
+    "name": "test-architect",
+    "title": "Test Architect",
+    "category": "testing",
+    "description": "Professional Test Architect skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "test-coverage",
+    "title": "Test Coverage",
+    "category": "testing",
+    "description": "Professional Test Coverage Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "test-data-builder",
+    "title": "Test Data Builder",
+    "category": "testing",
+    "description": "Professional Test Data Builder skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "test-reporter",
+    "title": "Test Reporter",
+    "category": "testing",
+    "description": "Professional Test Reporter Expert skill. Implement robust test suites and automated quality checks for modern web/mobile applications.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[testing, QA, automation, code-quality]"
+  },
+  {
+    "name": "threat-modeler",
+    "title": "Threat Modeler",
+    "category": "security",
+    "description": "Professional Threat Modeler Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "typescript-expert",
+    "title": "Typescript Expert",
+    "category": "backend",
+    "description": "Professional Typescript Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "unit-test-writer",
+    "title": "Unit Test Writer",
+    "category": "testing",
+    "description": "Write comprehensive unit tests that verify behavior, catch regressions, and document intent. Covers test organization, assertions, mocking, and coverage.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[unit-tests, jest, pytest, mocha, testing]"
+  },
+  {
+    "name": "user-behavior",
+    "title": "User Behavior",
+    "category": "product",
+    "description": "Professional User Behavior Expert skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "user-researcher",
+    "title": "User Researcher",
+    "category": "product",
+    "description": "Professional User Researcher Expert skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "vector-database",
+    "title": "Vector Database",
+    "category": "data",
+    "description": "Professional Vector Database Expert skill. Design and maintain secure, optimized, and performant databases and data storage solutions.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[data, database, analytics, optimization, processing]"
+  },
+  {
+    "name": "viral-loop-builder",
+    "title": "Viral Loop Builder",
+    "category": "product",
+    "description": "Professional Viral Loop Builder skill. Define product strategy, launch features, and run experiments with user metrics.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[product, product-management, lean, validation]"
+  },
+  {
+    "name": "visual-regression",
+    "title": "Visual Regression",
+    "category": "backend",
+    "description": "Professional Visual Regression Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "vue-craftsman",
+    "title": "Vue Craftsman",
+    "category": "frontend",
+    "description": "Professional Vue Craftsman Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "web-performance",
+    "title": "Web Performance",
+    "category": "frontend",
+    "description": "Professional Web Performance Expert skill. Build accessible, performance-tuned, responsive UI components with clean design standards.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[frontend, ui, css, html, javascript]"
+  },
+  {
+    "name": "webhook-handler",
+    "title": "Webhook Handler",
+    "category": "backend",
+    "description": "Professional Webhook Handler Expert skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "websocket-architect",
+    "title": "Websocket Architect",
+    "category": "php-frameworks",
+    "description": "Design and implement real-time features using WebSockets. Covers Laravel Reverb, Pusher, Socket.io, broadcasting, and live update patterns.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "['websockets', 'realtime', 'laravel-reverb', 'pusher', 'socket.io']"
+  },
+  {
+    "name": "websocket-realtime",
+    "title": "Websocket Realtime",
+    "category": "backend",
+    "description": "Implement bi-directional real-time communication systems using raw WebSockets or Socket.io with proper authentication and scaling.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[websockets, realtime, socket-io, nodes, security]"
+  },
+  {
+    "name": "widget-builder",
+    "title": "Widget Builder",
+    "category": "backend",
+    "description": "Professional Widget Builder skill. Build performant, secure, and scalable backend logic and RESTful or GraphQL APIs.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[backend, api, database, logic, server]"
+  },
+  {
+    "name": "wordpress-developer",
+    "title": "Wordpress Developer",
+    "category": "php-frameworks",
+    "description": "Develop professional WordPress sites, custom themes, and plugins. Covers WordPress best practices, hooks system, custom post types, WP REST API, and security.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "['wordpress', 'php', 'cms', 'plugins', 'themes']"
+  },
+  {
+    "name": "wordpress-plugin",
+    "title": "Wordpress Plugin",
+    "category": "backend",
+    "description": "Develop high-quality, secure WordPress plugins using actions, filters, shortcodes, and custom database tables.",
+    "complexity": "advanced",
+    "risk": "medium",
+    "tags": "[wordpress, php, plugin, hooks, security]"
+  },
+  {
+    "name": "wordpress-theme",
+    "title": "Wordpress Theme",
+    "category": "backend",
+    "description": "Develop custom WordPress themes from scratch with proper hierarchy, template parts, and block editor support.",
+    "complexity": "advanced",
+    "risk": "low",
+    "tags": "[wordpress, php, theme, css, layout]"
+  },
+  {
+    "name": "wordpress-woocommerce",
+    "title": "Wordpress Woocommerce",
+    "category": "backend",
+    "description": "Customize and scale WooCommerce stores with custom checkout options, payment gateways, and subscription hooks.",
+    "complexity": "expert",
+    "risk": "medium",
+    "tags": "[wordpress, woocommerce, e-commerce, php, checkout]"
+  },
+  {
+    "name": "workspace-optimizer",
+    "title": "Workspace Optimizer",
+    "category": "developer-experience",
+    "description": "Professional Workspace Optimizer Expert skill. Improve code delivery speed and developer workflows through automation and modern tooling.",
+    "complexity": "intermediate",
+    "risk": "low",
+    "tags": "[dx, tooling, productivity, workflow, dev-tools]"
+  },
+  {
+    "name": "xss-prevention",
+    "title": "Xss Prevention",
+    "category": "security",
+    "description": "Professional XSS Prevention Expert skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  },
+  {
+    "name": "zero-trust-architect",
+    "title": "Zero Trust Architect",
+    "category": "security",
+    "description": "Professional Zero Trust Architect skill. Implement enterprise-grade web application security controls and encryption standards.",
+    "complexity": "expert",
+    "risk": "high",
+    "tags": "[security, owasp, protection, hardening]"
+  }
+]

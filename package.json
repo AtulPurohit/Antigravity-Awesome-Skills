@@ -9,6 +9,11 @@
   },
   "scripts": {
     "validate": "node bin/validate.js",
+    "index:skills": "node tools/scripts/index-skills.js",
+    "guard:skills": "node tools/scripts/guard-skills.js",
+    "explorer:install": "cd explorer && npm install",
+    "explorer:dev": "cd explorer && npm run dev",
+    "explorer:build": "cd explorer && npm run build",
     "install-skills": "node bin/cli.js"
   },
   "dependencies": {
