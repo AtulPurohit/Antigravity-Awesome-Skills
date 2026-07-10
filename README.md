@@ -101,20 +101,28 @@ Our repository mirrors modern enterprise tool architectures:
 
 ```
 Antigravity_Awesome_Skills/
+├── assets/               # Visual badges and graphic assets
 ├── bin/
 │   ├── cli.js            # CLI installer script
 │   └── validate.js       # Local skill validator/linter
 ├── data/
 │   └── bundles.json      # Group mapping of workflow bundles
+├── docs/
+│   └── guides/           # Integration manual, onboarding, and bundle profiles
+├── explorer/             # Vite React catalog web application
+├── plugins/
+│   ├── claude/           # Preset integrations for Claude Code
+│   └── antigravity/      # Custom workspace integrations
 ├── schemas/
 │   └── skill.schema.json # JSON Schema for frontmatter validation
-├── plugins/
-│   ├── claude/           # Integration files for Claude Code
-│   └── antigravity/      # Workspace integration plugins
 ├── skills/
 │   ├── [skill-name]/
 │   │   └── SKILL.md      # Metadata + Blueprint + Checklist
 │   └── ...
+├── tools/
+│   └── scripts/          # Safety guard and index builders
+├── AGENT_STANDARDS.md    # Repository coding standards
+├── CATALOG.md            # Automatically compiled skills catalog
 └── README.md             # Complete Documentation
 ```
 
