@@ -1,5 +1,7 @@
 # Antigravity Awesome Skills
 
+![Antigravity Awesome Skills Banner](assets/antigravity-awesome-skills.png)
+
 🚀 **The ultimate collection of 300+ production-ready agentic skill definitions for AI coding assistants.** Optimized for **Claude Code, Antigravity, Gemini CLI, Cursor, Copilot, AutoHand Code, Kiro**, and more.
 
 **Antigravity Awesome Skills** is an installable, enterprise-grade repository and NPM package providing pre-compiled, structured `SKILL.md` playbooks. Built for modern developer workflows, it helps AI coding assistants (including Claude Code, Antigravity IDE, Cursor, Gemini CLI, and GitHub Copilot) operate with explicit context boundaries, clear system constraints, and checkable verification steps. Rather than managing ad-hoc prompt snippets or loose directives, this library introduces a validated catalog of structured blueprints and roles that automate complex coding tasks reliably.
@@ -544,7 +546,7 @@ To utilize these skills with maximum efficacy, ensure your local environment mee
 ## 💎 Core Advantages
 
 1.  **Zero Duplication**: Dynamic templates enforce clean abstractions and modular code architecture.
-2.  **Turnkey Checklists**: Avoid missing edge cases with structured validation steps.
+2.  **Turnkey Checklists**: Avoid missing edge cases structured validation steps.
 3.  **Strict Parity**: High compatibility ensures seamless usage across various AI tools.
 4.  **Deep Technical Coverage**: Explicit configuration blueprints for complex architectures (e.g. CDC streams, micro-frontends, event sourcing).
 
@@ -564,10 +566,6 @@ If you find this project valuable and want to support its active development, pl
 <a href="https://buymeacoffee.com/atulpurohit" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
-
-<br><br>
-
-![Antigravity Awesome Skills Banner](assets/antigravity-awesome-skills.png)
 
 ---
 
