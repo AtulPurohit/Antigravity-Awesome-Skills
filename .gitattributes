@@ -1,9 +1,0 @@
-# Override language statistics for skills playbooks to show as Python code
-skills/**/*.md linguist-language=Python
-
-# Exclude explorer web app from language stats (treat as documentation/vendored)
-explorer/** linguist-documentation
-bin/** linguist-documentation
-tools/** linguist-documentation
-package.json linguist-documentation
-package-lock.json linguist-documentation
