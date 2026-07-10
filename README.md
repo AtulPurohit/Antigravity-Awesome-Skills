@@ -91,8 +91,8 @@ We have grouped the skills into specialized role bundles matching your stack. Yo
 |---|---|
 | **Total Skills** | 313 Agentic Skills |
 | **Categories** | 12 Distinct Skill Categories |
-| **Frameworks Covered** | Laravel, CodeIgniter, WordPress, CakePHP, React, Next.js, Angular, Flutter, Go, Node.js |
-| **Databases & Cache** | MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch |
+| **Frameworks Covered** | React, Next.js, Node.js, Flutter, React Native, Laravel, Python (FastAPI/Flask), Go, Rust, iOS (Swift), Android (Kotlin), Angular, Vue, WordPress, CodeIgniter, CakePHP |
+| **Databases & Cache** | PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch, Vector Databases (Chroma/Pinecone/pgvector), SQLite, Memcached |
 | **Standard Format** | Custom Frontmatter (YAML) + Clean Markdown (SKILL.md) |
 
 ## 📁 Folder Structure
