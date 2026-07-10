@@ -1,0 +1,30 @@
+{
+  "name": "antigravity-awesome-skills",
+  "version": "1.0.0",
+  "description": "Interactive installer and catalog of 300+ professional agentic skill definitions.",
+  "main": "bin/cli.js",
+  "bin": {
+    "antigravity-awesome-skills": "./bin/cli.js",
+    "claude-awesome-skills": "./bin/cli.js"
+  },
+  "scripts": {
+    "validate": "node bin/validate.js",
+    "install-skills": "node bin/cli.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^8.2.6"
+  },
+  "keywords": [
+    "antigravity",
+    "claude",
+    "gemini",
+    "agentic-skills",
+    "cursor",
+    "copilot"
+  ],
+  "author": "Atul Purohit",
+  "license": "MIT"
+}

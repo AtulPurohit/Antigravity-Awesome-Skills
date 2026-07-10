@@ -1,0 +1,75 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AgenticSkillFrontmatter",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "architecture",
+        "frontend",
+        "security",
+        "devops",
+        "testing",
+        "ai-ml",
+        "mobile",
+        "backend",
+        "data",
+        "product",
+        "developer-experience",
+        "collaboration",
+        "php-frameworks"
+      ]
+    },
+    "tags": {
+      "type": "string",
+      "pattern": "^\\[[a-zA-Z0-9-, ]+\\]$"
+    },
+    "complexity": {
+      "type": "string",
+      "enum": ["beginner", "intermediate", "advanced", "expert"]
+    },
+    "risk": {
+      "type": "string",
+      "enum": ["safe", "low", "medium", "high"]
+    },
+    "compatibility": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "source": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$"
+    },
+    "date_added": {
+      "type": "string",
+      "format": "date"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date"
+    }
+  },
+  "required": [
+    "name",
+    "description",
+    "category",
+    "tags",
+    "complexity",
+    "risk",
+    "compatibility"
+  ]
+}

@@ -14,14 +14,16 @@
 ## 📖 Table of Contents
 1. [Introduction](#-introduction)
 2. [Platform Compatibility](#-platform-compatibility)
-3. [Library Statistics](#-library-statistics)
-4. [Folder Structure](#-folder-structure)
-5. [Complete Skill Library](#-complete-skill-library)
-6. [How to Use These Skills](#-how-to-use-these-skills)
-7. [System Requirements](#-system-requirements)
-8. [Core Advantages](#-core-advantages)
-9. [Disclaimers & Safety](#-disclaimers--safety)
-10. [Licensing](#-licensing)
+3. [Quick Installation](#-quick-installation)
+4. [Workflow Bundles](#-workflow-bundles)
+5. [Library Statistics](#-library-statistics)
+6. [Folder Structure](#-folder-structure)
+7. [Complete Skill Library](#-complete-skill-library)
+8. [System Requirements](#-system-requirements)
+9. [Validation & Linter](#-validation--linter)
+10. [Core Advantages](#-core-advantages)
+11. [Disclaimers & Safety](#-disclaimers--safety)
+12. [Licensing](#-licensing)
 
 ---
 
@@ -48,6 +50,42 @@ These skill profiles are strictly compatible with all major agentic development 
 
 ---
 
+## ⚡ Quick Installation
+
+You can install all or specific subsets of the skills instantly using our custom NPX installer commands. Both commands are supported and run the exact same installer script:
+
+```bash
+# Run interactive installer
+npx antigravity-awesome-skills
+# OR
+npx claude-awesome-skills
+```
+
+To install the entire catalog automatically without interactive prompts, use:
+```bash
+npx antigravity-awesome-skills --all
+```
+
+---
+
+## 📦 Workflow Bundles
+
+We have grouped the skills into specialized role bundles matching your stack. You can install specific bundles directly using the `--bundle` (or `-b`) flag:
+
+| Command | Stack/Role Covered |
+|---|---|
+| `npx antigravity-awesome-skills --bundle frontend-architect` | React, Next.js, Vue, Angular, CSS, state-management, PWA, accessibility. |
+| `npx antigravity-awesome-skills --bundle backend-microservices` | Go, Rust, Node.js, Fastify, APIs, gRPC, Kafka, WebSockets, Redis, queues. |
+| `npx antigravity-awesome-skills --bundle database-data-ops` | SQL, PostgreSQL, MySQL, MongoDB, Elasticsearch, Vector Databases, dbt, Airflow. |
+| `npx antigravity-awesome-skills --bundle devops-cloud-infra` | AWS, Azure, GCP, Docker, Kubernetes, Terraform, CI/CD pipelines, logging. |
+| `npx antigravity-awesome-skills --bundle ai-llm-engineering` | LLMs, prompt engineering, RAG systems, embeddings, fine-tuning, safety filters. |
+| `npx antigravity-awesome-skills --bundle mobile-engineer` | Flutter, React Native, iOS, Android, push notifications, store deployment. |
+| `npx antigravity-awesome-skills --bundle security-pentester` | OWASP Top 10, secrets scanning, pen-testing, compliance, zero-trust. |
+| `npx antigravity-awesome-skills --bundle php-cms-suite` | Laravel, CodeIgniter, CakePHP, WordPress Plugins/Themes, WooCommerce. |
+| `npx antigravity-awesome-skills --bundle dx-qa-automation` | Unit/E2E testing, linter, formatting, git hooks, commit conventions, SemVer. |
+
+---
+
 ## 📊 Library Statistics
 
 | Metric | Details |
@@ -60,13 +98,25 @@ These skill profiles are strictly compatible with all major agentic development 
 
 ## 📁 Folder Structure
 
+Our repository mirrors modern enterprise tool architectures:
+
 ```
 Antigravity_Awesome_Skills/
+├── bin/
+│   ├── cli.js            # CLI installer script
+│   └── validate.js       # Local skill validator/linter
+├── data/
+│   └── bundles.json      # Group mapping of workflow bundles
+├── schemas/
+│   └── skill.schema.json # JSON Schema for frontmatter validation
+├── plugins/
+│   ├── claude/           # Integration files for Claude Code
+│   └── antigravity/      # Workspace integration plugins
 ├── skills/
 │   ├── [skill-name]/
 │   │   └── SKILL.md      # Metadata + Blueprint + Checklist
 │   └── ...
-└── README.md             # High-quality Documentation
+└── README.md             # Complete Documentation
 ```
 
 ---
@@ -453,19 +503,12 @@ Here is the full directory of the 313 available agentic skills, grouped by categ
 
 ---
 
-## 🛠️ How to Use These Skills
+## 🔍 Validation & Linter
 
-### In Antigravity IDE & Gemini Config
-Place the skill folders directly under your global or project customization roots:
-- **Global**: `~/.gemini/config/skills/`
-- **Workspace**: `.agents/skills/`
+Every skill folder follows a strict format defined in [skill.schema.json](./schemas/skill.schema.json). You can run validation locally to check frontmatter correctness:
 
-The engine will automatically discover the skills based on the YAML frontmatter.
-
-### In Claude Code
-You can feed any `SKILL.md` directly into Claude Code during execution:
 ```bash
-claude write "implement this feature using the guidelines in /skills/clean-architecture/SKILL.md"
+npm run validate
 ```
 
 ---
@@ -473,7 +516,7 @@ claude write "implement this feature using the guidelines in /skills/clean-archi
 ## 📋 System Requirements
 
 To utilize these skills with maximum efficacy, ensure your local environment meets:
-- **Node.js**: v18.0.0 or later (for JavaScript/TypeScript related skills).
+- **Node.js**: v18.0.0 or later.
 - **Python**: v3.10.0+ (for analytics, A/B testing, and AI engineering scripts).
 - **Git**: v2.30.0+ for commit convention hooks and pipeline integrations.
 - **Docker**: For running services using the containerization blueprints.
