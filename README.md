@@ -110,9 +110,16 @@ Antigravity_Awesome_Skills/
 ├── docs/
 │   └── guides/           # Integration manual, onboarding, and bundle profiles
 ├── explorer/             # Vite React catalog web application
-├── plugins/
-│   ├── claude/           # Preset integrations for Claude Code
-│   └── antigravity/      # Custom workspace integrations
+├── plugins/              # Pre-packaged stack plugin modules
+│   ├── ai-llm-engineering/
+│   ├── backend-microservices/
+│   ├── database-data-ops/
+│   ├── devops-cloud-infra/
+│   ├── dx-qa-automation/
+│   ├── frontend-architect/
+│   ├── mobile-engineer/
+│   ├── php-cms-suite/
+│   └── security-pentester/
 ├── schemas/
 │   └── skill.schema.json # JSON Schema for frontmatter validation
 ├── skills/
