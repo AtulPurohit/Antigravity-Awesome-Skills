@@ -1,0 +1,25 @@
+{
+  "name": "Database & Data Engineering Bundle",
+  "id": "antigravity-plugin-database-data-ops",
+  "description": "Skills for managing relational, document, search, and vector databases and analytical pipelines.",
+  "version": "1.0.0",
+  "publisher": "Atul Purohit",
+  "skills": [
+    "mysql-expert",
+    "postgresql-expert",
+    "mongodb-specialist",
+    "elasticsearch-expert",
+    "vector-database",
+    "database-optimizer",
+    "query-planner",
+    "migration-manager",
+    "seed-data",
+    "data-archiver",
+    "multi-db-strategy",
+    "etl-builder",
+    "data-warehouse",
+    "data-governance",
+    "analytics-audit",
+    "schema-design"
+  ]
+}

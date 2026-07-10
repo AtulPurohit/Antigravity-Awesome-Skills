@@ -1,0 +1,22 @@
+{
+  "name": "PHP Frameworks & CMS Bundle",
+  "id": "antigravity-plugin-php-cms-suite",
+  "description": "Skills for enterprise PHP web applications, custom WordPress development, and WooCommerce extensions.",
+  "version": "1.0.0",
+  "publisher": "Atul Purohit",
+  "skills": [
+    "laravel-architect",
+    "laravel-api",
+    "laravel-queues",
+    "laravel-livewire",
+    "laravel-nova",
+    "codeigniter-builder",
+    "codeigniter-rest",
+    "wordpress-developer",
+    "wordpress-theme",
+    "wordpress-plugin",
+    "wordpress-woocommerce",
+    "cakephp-developer",
+    "cakephp-rest"
+  ]
+}

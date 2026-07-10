@@ -1,0 +1,33 @@
+{
+  "name": "AI & LLM Engineering Bundle",
+  "id": "antigravity-plugin-ai-llm-engineering",
+  "description": "Skills for integrating Large Language Models, prompt templates, vector search, and RAG architectures.",
+  "version": "1.0.0",
+  "publisher": "Atul Purohit",
+  "skills": [
+    "ai-engineer",
+    "llm-prompt-master",
+    "rag-builder",
+    "embedding-architect",
+    "fine-tuner",
+    "evaluation-engineer",
+    "ai-safety-guard",
+    "model-monitor",
+    "mlops-engineer",
+    "feature-engineer",
+    "data-pipeline",
+    "langchain-expert",
+    "semantic-search",
+    "multimodal-builder",
+    "ai-content-filter",
+    "output-validator",
+    "chain-of-thought",
+    "few-shot-architect",
+    "context-optimizer",
+    "hallucination-detector",
+    "ai-product-manager",
+    "eval-harness",
+    "model-card-writer",
+    "responsible-ai"
+  ]
+}

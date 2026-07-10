@@ -1,0 +1,27 @@
+{
+  "name": "Backend & Microservices Bundle",
+  "id": "antigravity-plugin-backend-microservices",
+  "description": "Skills for building performant API services, message brokers, caching, and scalable logic.",
+  "version": "1.0.0",
+  "publisher": "Atul Purohit",
+  "skills": [
+    "golang-engineer",
+    "rust-developer",
+    "node-expert",
+    "node-fastify",
+    "python-api",
+    "grpc-builder",
+    "kafka-engineer",
+    "redis-master",
+    "redis-cache-master",
+    "websocket-realtime",
+    "websocket-architect",
+    "background-jobs",
+    "cron-scheduler",
+    "webhook-handler",
+    "event-sourcing",
+    "cdc-streams",
+    "connection-pooling",
+    "microservice-scaffolder"
+  ]
+}
