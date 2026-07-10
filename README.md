@@ -2,12 +2,19 @@
 
 🚀 **The ultimate collection of 300+ production-ready agentic skill definitions for AI coding assistants.** Optimized for **Claude Code, Antigravity, Gemini CLI, Cursor, Copilot, AutoHand Code, Kiro**, and more.
 
+**Antigravity Awesome Skills** is an installable, enterprise-grade repository and NPM package providing pre-compiled, structured `SKILL.md` playbooks. Built for modern developer workflows, it helps AI coding assistants (including Claude Code, Antigravity IDE, Cursor, Gemini CLI, and GitHub Copilot) operate with explicit context boundaries, clear system constraints, and checkable verification steps. Rather than managing ad-hoc prompt snippets or loose directives, this library introduces a validated catalog of structured blueprints and roles that automate complex coding tasks reliably.
+
+This repository is an independent open-source initiative. All product names, logos, and brands (including Google, Gemini, Antigravity, Anthropic, Claude, and Cursor) are properties of their respective owners, and are referenced here solely for compatibility, tooling integration, and setup instructions.
+
+Developers can deploy the catalog as a full-library installation, start with focused stack-specific bundles (e.g. Backend Microservices, Frontend, Mobile, AI/LLMs), or run audits using the built-in security checker tools. The root documentation and matching Skills Explorer app serve as a high-signal discovery platform designed to get you the right guidelines quickly, minimizing context pollution and maximizing the accuracy of agentic code outputs.
+
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Skills Count](https://img.shields.io/badge/Skills-313%20Available-brightgreen.svg)](#)
 [![Compatibility](https://img.shields.io/badge/Compatibility-Multi--Platform-orange.svg)](#compatibility)
 [![Build Status](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)](#)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-blue.svg)](#)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/atulpurohit)
 
 [![Antigravity IDE](https://img.shields.io/badge/Antigravity%20IDE-AI%20IDE-blue)](#)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-purple)](#)
@@ -15,14 +22,6 @@
 [![Gemini CLI](https://img.shields.io/badge/Gemini%20CLI-Google-blue)](#)
 [![Copilot](https://img.shields.io/badge/Copilot-GitHub-black)](#)
 [![AutoHand Code](https://img.shields.io/badge/AutoHand%20Code-CLI-green)](#)
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Donate-FFDD00?logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/atulpurohit)
-
-**Antigravity Awesome Skills** is an installable, enterprise-grade repository and NPM package providing pre-compiled, structured `SKILL.md` playbooks. Built for modern developer workflows, it helps AI coding assistants (including Claude Code, Antigravity IDE, Cursor, Gemini CLI, and GitHub Copilot) operate with explicit context boundaries, clear system constraints, and checkable verification steps. Rather than managing ad-hoc prompt snippets or loose directives, this library introduces a validated catalog of structured blueprints and roles that automate complex coding tasks reliably.
-
-This repository is an independent open-source initiative. All product names, logos, and brands (including Google, Gemini, Antigravity, Anthropic, Claude, and Cursor) are properties of their respective owners, and are referenced here solely for compatibility, tooling integration, and setup instructions.
-
-Developers can deploy the catalog as a full-library installation, start with focused stack-specific bundles (e.g. Backend Microservices, Frontend, Mobile, AI/LLMs), or run audits using the built-in security checker tools. The root documentation and matching Skills Explorer app serve as a high-signal discovery platform designed to get you the right guidelines quickly, minimizing context pollution and maximizing the accuracy of agentic code outputs.
 
 ---
 
@@ -565,6 +564,10 @@ If you find this project valuable and want to support its active development, pl
 <a href="https://buymeacoffee.com/atulpurohit" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200">
 </a>
+
+<br><br>
+
+![Antigravity Awesome Skills Banner](assets/antigravity-awesome-skills.png)
 
 ---
 
