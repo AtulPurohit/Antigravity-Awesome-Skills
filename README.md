@@ -29,12 +29,11 @@
 
 ## 🌟 Introduction
 
-AI coding assistants are highly capable, but they function best when given context-aware guardrails, expert blueprints, and precise execution checklists. **Antigravity Awesome Skills** is a professional, industry-grade catalog of **313 system instructions (SKILL.md files)**. 
+**Antigravity Awesome Skills** is an installable, enterprise-grade repository and NPM package providing pre-compiled, structured `SKILL.md` playbooks. Built for modern developer workflows, it helps AI coding assistants (including Claude Code, Antigravity IDE, Cursor, Gemini CLI, and GitHub Copilot) operate with explicit context boundaries, clear system constraints, and checkable verification steps. Rather than managing ad-hoc prompt snippets or loose directives, this library introduces a validated catalog of structured blueprints and roles that automate complex coding tasks reliably.
 
-Each skill contains:
-- **Extended YAML metadata** defining complexity, risk profiles, tags, and category.
-- **Specific code implementation recipes** for modern stacks (including PHP frameworks like Laravel/CakePHP, databases like MySQL/Redis, and mobile platforms).
-- **Step-by-step verification checklists** to ensure correct implementation without regressions.
+This repository is an independent open-source initiative. All product names, logos, and brands (including Google, Gemini, Antigravity, Anthropic, Claude, and Cursor) are properties of their respective owners, and are referenced here solely for compatibility, tooling integration, and setup instructions.
+
+Developers can deploy the catalog as a full-library installation, start with focused stack-specific bundles (e.g. Backend Microservices, Frontend, Mobile, AI/LLMs), or run audits using the built-in security checker tools. The root documentation and matching Skills Explorer app serve as a high-signal discovery platform designed to get you the right guidelines quickly, minimizing context pollution and maximizing the accuracy of agentic code outputs.
 
 ---
 
