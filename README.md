@@ -18,18 +18,17 @@ Developers can deploy the catalog as a full-library installation, start with foc
 ---
 
 ## 📖 Table of Contents
-1. [Introduction](#-introduction)
+1. [Quick Installation](#-quick-installation)
 2. [Platform Compatibility](#-platform-compatibility)
-3. [Quick Installation](#-quick-installation)
-4. [Workflow Bundles](#-workflow-bundles)
-5. [Library Statistics](#-library-statistics)
-6. [Folder Structure](#-folder-structure)
-7. [Complete Skill Library](#-complete-skill-library)
-8. [System Requirements](#-system-requirements)
-9. [Validation & Linter](#-validation--linter)
-10. [Core Advantages](#-core-advantages)
-11. [Disclaimers & Safety](#-disclaimers--safety)
-12. [Licensing](#-licensing)
+3. [Workflow Bundles](#-workflow-bundles)
+4. [Library Statistics](#-library-statistics)
+5. [Folder Structure](#-folder-structure)
+6. [Complete Skill Library](#-complete-skill-library)
+7. [System Requirements](#-system-requirements)
+8. [Validation & Linter](#-validation--linter)
+9. [Core Advantages](#-core-advantages)
+10. [Disclaimers & Safety](#-disclaimers--safety)
+11. [Licensing](#-licensing)
 
 ---
 
